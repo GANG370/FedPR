@@ -1,4 +1,4 @@
-# FedPR
+# PFR-Forgery
 With the continuous development of deep learning
 in the field of image generation models, a large number of vivid
 forged faces have been generated and spread on the Internet.
